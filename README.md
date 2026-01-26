@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Jayrajsinh 👋
 
-<!--
-**Chauhan-Jayrajsinh/Chauhan-Jayrajsinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech student in Electronics & Communication Engineering  
+🔧 Interested in VLSI Design, RTL Development, and FPGA-based Embedded Systems  
 
-Here are some ideas to get you started:
+I focus on building and documenting hardware projects using **Verilog**, with emphasis on
+digital design fundamentals, processor architecture, and simulation-based verification.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Areas of Interest
+- RTL Design using Verilog
+- Digital Logic & Computer Architecture
+- RISC-V Processor Design
+- FPGA-based Embedded Systems
+- Communication Protocols (UART, SPI, I2C)
+
+### 🛠 Tools & Technologies
+- Verilog, ModelSim, Quartus
+- FPGA: DE1 Cyclone II
+- C, C++, Assembly (8051)
+
+### 📂 Featured Projects
+- Single-Cycle RISC-V RV32I Processor (Verilog)
+- Cache Memory Design
+- FPGA Multi-Protocol Sensor & Actuation System
+
+📄 **Resume:** https://drive.google.com/file/d/1CzW1noHB-dJg-DtTwVRXsSFvxj1pJ7Eb/view?usp=drive_link
+🔗 **LinkedIn:** [https://www.linkedin.com/in/jayrajsinh-chauhan-604590296](https://www.linkedin.com/in/jayrajsinh-chauhan-604590296)
+
+---
+
+📌 *This GitHub is used to document my learning and projects in digital hardware and VLSI design.*
+
