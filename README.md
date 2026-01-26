@@ -24,6 +24,7 @@ digital design fundamentals, processor architecture, and simulation-based verifi
 - FPGA Multi-Protocol Sensor & Actuation System
 
 📄 **Resume:** https://drive.google.com/file/d/1CzW1noHB-dJg-DtTwVRXsSFvxj1pJ7Eb/view?usp=drive_link
+
 🔗 **LinkedIn:** [https://www.linkedin.com/in/jayrajsinh-chauhan-604590296](https://www.linkedin.com/in/jayrajsinh-chauhan-604590296)
 
 ---
