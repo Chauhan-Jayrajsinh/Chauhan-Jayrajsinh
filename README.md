@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=220&section=header&text=Jayrajsinh%20Chauhan&fontSize=42&fontColor=ffffff&desc=FPGA%20%7C%20VLSI%20Design%20%7C%20Embedded%20Systems&descSize=20&descAlign=50&animation=fadeIn" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=2000&pause=1500&color=00C2FF&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;FPGA+%7C+RTL+Design+%7C+Verilog;Hardware+Protocol+Implementation;Building+Real+World+Digital+Systems" />
+</p>
+
 ## Hi, I'm Jayrajsinh 👋
 
 🎓 B.Tech student in Electronics & Communication Engineering  
