@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=260&section=header&text=Jayrajsinh%20Chauhan&fontSize=44&fontColor=FFFFFF&desc=%20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Jayrajsinh%20Chauhan&fontSize=44&fontColor=FFFFFF&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&duration=2500&pause=2000&color=00C2FF&center=true&vCenter=true&width=600&lines=FPGA+%7C+VLSI+Design+%7C+Embedded+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&duration=2500&pause=2000&color=00C2FF&center=true&vCenter=true&width=650&lines=Electronics+%26+Communication+Engineer;Digital+System+Architecture+Enthusiast;Hardware+Protocol+Implementation;Building+Structured+RTL+Designs" />
 </p>
 
 ## Hi, I'm Jayrajsinh 👋
