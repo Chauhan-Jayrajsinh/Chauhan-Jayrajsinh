@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=220&section=header&text=Jayrajsinh%20Chauhan&fontSize=42&fontColor=ffffff&desc=FPGA%20%7C%20VLSI%20Design%20%7C%20Embedded%20Systems&descSize=20&descAlign=50&animation=fadeIn" />
+</p>
 ## Hi, I'm Jayrajsinh 👋
 
 🎓 B.Tech student in Electronics & Communication Engineering  
