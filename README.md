@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&duration=2500&pause=2000&color=00C897&center=true&vCenter=true&width=850&lines=Interest+in+VLSI+and+Embedded+Systems;Building+Digital+Hardware+Projects;Seeking+Exposure+to+Real-World+Hardware+Development" />
-</p>>
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&duration=2500&pause=2000&color=9D4EDD&center=true&vCenter=true&width=850&lines=Interest+in+VLSI+and+Embedded+Systems;Building+Digital+Hardware+Projects;Seeking+Exposure+to+Real-World+Hardware+Development" />
+</p>
 
 ## Hi, I'm Jayrajsinh 👋
 
