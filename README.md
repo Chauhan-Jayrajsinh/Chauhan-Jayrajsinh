@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=240&section=header&text=Jayrajsinh%20Chauhan&fontSize=44&fontColor=FFFFFF&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&duration=3000&pause=2000&color=00C2FF&center=true&vCenter=true&width=500&lines=Learning+and+Building+with+Digital+Systems" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&duration=2500&pause=2000&color=00C2FF&center=true&vCenter=true&width=600&lines=Learning+Digital+Systems;Exploring+FPGA+and+Hardware+Design;Building+Real+Projects;Always+Improving" />
-</p>
 ## Hi, I'm Jayrajsinh 👋
 
 🎓 B.Tech student in Electronics & Communication Engineering  
