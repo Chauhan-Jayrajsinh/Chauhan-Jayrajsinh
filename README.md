@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&duration=3000&pause=2000&color=00C2FF&center=true&vCenter=true&width=500&lines=Learning+and+Building+with+Digital+Systems" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=240&section=header&text=Jayrajsinh%20Chauhan&fontSize=44&fontColor=FFFFFF&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&duration=2500&pause=2000&color=00C2FF&center=true&vCenter=true&width=850&lines=Interest+in+VLSI+and+Embedded+Systems;Building+Digital+Hardware+Projects;Seeking+Exposure+to+Real-World+Hardware+Development" />
 </p>
 
 ## Hi, I'm Jayrajsinh 👋
