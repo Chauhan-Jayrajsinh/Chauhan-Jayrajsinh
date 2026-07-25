@@ -24,6 +24,10 @@ I enjoy designing digital hardware using **Verilog HDL**, understanding processo
 
 <p align="center">
 
+<a href="https://github.com/Chauhan-Jayrajsinh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/jayrajsinh-chauhan-604590296">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -99,6 +103,7 @@ I enjoy designing digital hardware using **Verilog HDL**, understanding processo
 - FPGA Prototyping
 - ASIC Design Flow
 - Verilator & GTKWave
+---
 
 # 🚧 Ongoing Project
 
@@ -106,11 +111,11 @@ I enjoy designing digital hardware using **Verilog HDL**, understanding processo
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RTL-Verilog-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Architecture-Weight%20Stationary-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Simulation-Verilator-important?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Waveforms-GTKWave-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/RTL-Verilog-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Dataflow-Weight%20Stationary-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Simulator-Verilator-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Waveforms-GTKWave-success?style=flat-square"/>
 
 </p>
 
@@ -178,19 +183,12 @@ Designing a scalable **weight-stationary systolic array accelerator** for effici
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chauhan-Jayrajsinh&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chauhan-Jayrajsinh&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chauhan-Jayrajsinh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chauhan-Jayrajsinh&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
----
-
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chauhan-Jayrajsinh&theme=github-dark&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Chauhan-Jayrajsinh&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -208,9 +206,7 @@ Designing a scalable **weight-stationary systolic array accelerator** for effici
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Chauhan-Jayrajsinh&theme=algolia&no-frame=true&row=1&column=7"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Chauhan-Jayrajsinh&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
@@ -226,25 +222,3 @@ Designing a scalable **weight-stationary systolic array accelerator** for effici
 - Pursue FPGA and ASIC development
 
 ---
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Chauhan-Jayrajsinh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/jayrajsinh-chauhan-604590296">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:jayrajsinhchauhan1506@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://drive.google.com/file/d/1m-yO0W7UaxV4CxlpQmAlYi6SgmVRp_a1/view?usp=drive_link">
-<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
-
-</p>
