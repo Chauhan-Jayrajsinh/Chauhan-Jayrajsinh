@@ -173,7 +173,6 @@ Designing a scalable **weight-stationary systolic array accelerator** for effici
 ## ⚡ FPGA Multi-Protocol Sensor & Actuation System
 
 - UART
-- SPI
 - I²C
 - GPIO
 - Sensor Interfacing
