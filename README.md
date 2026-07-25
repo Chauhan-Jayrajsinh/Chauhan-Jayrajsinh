@@ -183,11 +183,6 @@ Designing a scalable **weight-stationary systolic array accelerator** for effici
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chauhan-Jayrajsinh&show_icons=true&theme=github_dark&hide_border=true&v=1" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chauhan-Jayrajsinh&layout=compact&theme=github_dark&hide_border=true&v=1" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Chauhan-Jayrajsinh&theme=github-dark&hide_border=true" />
 </p>
 
