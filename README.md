@@ -43,19 +43,16 @@ I enjoy designing digital hardware using **Verilog HDL**, understanding processo
 # 💻 Languages & Technologies
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,github,vscode,bash" />
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,github,vscode,bash" />
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Verilog-FF6600?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/SystemVerilog-CC0000?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/RTL%20Design-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Digital%20Design-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Design%20Verification-9C27B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Architecture-607D8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Verilog-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/SystemVerilog-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/RTL%20Design-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Design%20Verification-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Architecture-lightgrey?style=flat-square"/>
 
 </p>
 
@@ -65,18 +62,15 @@ I enjoy designing digital hardware using **Verilog HDL**, understanding processo
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,bash" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Intel%20Quartus-0071C5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ModelSim-006699?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Verilator-FF9800?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GTKWave-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WSL-Ubuntu-E95420?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FPGA-DE1--Cyclone%20II-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Intel%20Quartus-0071C5?style=flat-square"/>
+<img src="https://img.shields.io/badge/ModelSim-006699?style=flat-square"/>
+<img src="https://img.shields.io/badge/Verilator-F57C00?style=flat-square"/>
+<img src="https://img.shields.io/badge/GTKWave-43A047?style=flat-square"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ubuntu%20WSL-E95420?style=flat-square"/>
 
 </p>
 
@@ -84,22 +78,27 @@ I enjoy designing digital hardware using **Verilog HDL**, understanding processo
 
 # 📚 Areas of Interest
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/RTL%20Design-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Digital%20Design-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Architecture-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VLSI-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ASIC%20Design-critical?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FPGA-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embedded%20Systems-informational?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Accelerators-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cache%20Design-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RISC--V-black?style=for-the-badge"/>
-
-</p>
+- RTL Design
+- Digital Logic Design
+- Computer Architecture
+- FPGA Development
+- ASIC Design Flow
+- AI Accelerators
+- Cache Memory Design
+- Processor Design
+- Embedded Systems
 
 ---
+
+# 🌱 Currently Learning
+
+- Design Verification
+- Systolic Array Architecture
+- AI Hardware Accelerators
+- Cache Controller Design
+- FPGA Prototyping
+- ASIC Design Flow
+- Verilator & GTKWave
 
 # 🚧 Ongoing Project
 
@@ -173,22 +172,6 @@ Designing a scalable **weight-stationary systolic array accelerator** for effici
 - I²C
 - GPIO
 - Sensor Interfacing
-  
----
-
-# 🌱 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/SystemVerilog-Learning-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Design%20Verification-Learning-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Systolic%20Arrays-Learning-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Hardware-Learning-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Architecture-Learning-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ASIC%20Flow-Learning-informational?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FPGA%20Prototyping-Learning-success?style=for-the-badge"/>
-
-</p>
 
 ---
 
@@ -244,28 +227,24 @@ Designing a scalable **weight-stationary systolic array accelerator** for effici
 
 ---
 
-# 📫 Contact
-
-**Email**
-
-YOUR_GMAIL@gmail.com
-
-**LinkedIn**
-
-https://www.linkedin.com/in/jayrajsinh-chauhan-604590296
-
----
+# 🌐 Connect With Me
 
 <p align="center">
 
-> *"Designing reliable digital hardware one module at a time."*
+<a href="https://github.com/Chauhan-Jayrajsinh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</p>
+<a href="https://www.linkedin.com/in/jayrajsinh-chauhan-604590296">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="mailto:jayrajsinhchauhan1506@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Chauhan-Jayrajsinh&style=for-the-badge"/>
+<a href="https://drive.google.com/file/d/1m-yO0W7UaxV4CxlpQmAlYi6SgmVRp_a1/view?usp=drive_link">
+<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
 
 </p>
